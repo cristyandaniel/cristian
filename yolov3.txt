@@ -1,13 +1,13 @@
-Persona
-Bicicleta
-Auto
-Motocicleta
-Avion
-Bus
-Tren
-Camion
-Bote
-Semaforo
+person
+bicycle
+car
+motorcycle
+airplane
+bus
+train
+truck
+boat
+traffic light
 fire hydrant
 stop sign
 parking meter
@@ -55,12 +55,12 @@ pizza
 donut
 cake
 chair
-sofa
-pottedplant
+couch
+potted plant
 bed
-diningtable
+dining table
 toilet
-tvmonitor
+tv
 laptop
 mouse
 remote
