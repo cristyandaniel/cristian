@@ -1,13 +1,13 @@
-person
-bicycle
-car
-motorcycle
-airplane
-bus
-train
-truck
-boat
-traffic light
+Persona
+Bicicleta
+Auto
+Motocicleta
+Avion
+Bus
+Tren
+Camion
+bote
+Semaforo
 fire hydrant
 stop sign
 parking meter
