@@ -1,80 +1,80 @@
 Persona
-bicicleta
+Bicicleta
 Auto
-moto
-avión
-autobús
-tren
-Camión
-barco
-Semáforo
-boca de incendios
-señal de stop
-parquímetro
-banco
-pájaro
-gato
-perro
-caballo
-oveja
-vaca
-elefante
-oso
-cebra
-jirafa
-mochila
-paraguas
-bolso
-corbata
-maleta
+Motocicleta
+Avion
+Bus
+train
+truck
+boat
+traffic light
+fire hydrant
+stop sign
+parking meter
+bench
+bird
+cat
+dog
+horse
+sheep
+cow
+elephant
+bear
+zebra
+giraffe
+backpack
+umbrella
+handbag
+tie
+suitcase
 frisbee
-esquís
+skis
 snowboard
-pelota deportiva
-cometa
-bate de béisbol
-guante de béisbol
-monopatín
-tabla de surf
-raqueta de tenis
-botella
-copa de vino
-taza
-tenedor
-cuchillo
-cuchara
-cuenco
-plátano
-manzana
-sándwich
-naranja
-brócoli
-zanahoria
-perrito caliente
+sports ball
+kite
+baseball bat
+baseball glove
+skateboard
+surfboard
+tennis racket
+bottle
+wine glass
+cup
+fork
+knife
+spoon
+bowl
+banana
+apple
+sandwich
+orange
+broccoli
+carrot
+hot dog
 pizza
 donut
-pastel
-silla
-sofá
-planta en maceta
-cama
-mesa de comedor
-aseo
-monitor de televisión
-ordenador portátil
-ratón
-mando a distancia
-teclado
-teléfono móvil
-microondas
-horno
-tostadora
-fregadero
-nevera
-libro
-reloj
-jarrón
-tijeras
-oso de peluche
-secador de pelo
-cepillo de dientes
+cake
+chair
+sofa
+pottedplant
+bed
+diningtable
+toilet
+tvmonitor
+laptop
+mouse
+remote
+keyboard
+cell phone
+microwave
+oven
+toaster
+sink
+refrigerator
+book
+clock
+vase
+scissors
+teddy bear
+hair drier
+toothbrush
