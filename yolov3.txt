@@ -4,10 +4,10 @@ Auto
 Motocicleta
 Avion
 Bus
-train
-truck
-boat
-traffic light
+Tren
+Camion
+Bote
+Semaforo
 fire hydrant
 stop sign
 parking meter
